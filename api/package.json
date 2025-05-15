@@ -9,7 +9,7 @@
     "seed": "ts-node-dev src/shared/infra/typeorm/seed"
   },
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "date-fns": "^2.28.0",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
